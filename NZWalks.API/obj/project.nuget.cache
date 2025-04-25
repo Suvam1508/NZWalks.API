@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "K4j8VO7MiIE=",
+  "dgSpecHash": "B4w8198AuJI=",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Desktop\\Development\\19_Web_Api\\NZWalks.API\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
